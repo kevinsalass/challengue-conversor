@@ -39,10 +39,9 @@ _Utilizando libreria Swing, ICON, para implementar imagenes, animaciones para da
 <img src  = "C:\Users\Edgar\OneDrive\Documentos\challenge\Desafio\src\imagen-challengue\parte1.png">
 
 
-### Parte visual al convertir Monedas, agregando una animacion con un gif
+### Parte visual al convertir Monedas
 
-
-<img src  = "C:\Users\Edgar\OneDrive\Documentos\challenge\Desafio\src\imagen-challengue\parte2.png">
+<iframe src="https://github.com/kevinsalass/challengue-conversor/blob/master/Desafio/src/imagen-challengue/parte2.png" ></iframe>
 
 
 ### Parte visual al convertir Temperatura 
