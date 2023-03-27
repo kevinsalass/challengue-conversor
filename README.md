@@ -36,17 +36,18 @@ _Utilizando libreria Swing, ICON, para implementar imagenes, animaciones para da
 ### Parte principal del programa
 
 
-![alt text](C:/Users/Edgar/OneDrive/Documentos/challenge/Desafio/src/imagen-challengue/parte1.png)
+![alt text](/Desafio/src/imagen-challengue/parte1.png)
 
 
 ### Parte visual al convertir Monedas
 
-![alt text](C:/Users/Edgar/OneDrive/Documentos/challenge/Desafio/src/imagen-challengue/parte2.png)
+![alt text](/Desafio/src/imagen-challengue/parte2.png)
 
-### Parte visual al convertir Temperatura 
+### Parte visual alpwd
+ convertir Temperatura 
 
 
-![alt text](C:/Users/Edgar/OneDrive/Documentos/challenge/Desafio/src/imagen-challengue/parte3.png)
+![alt text](/Desafio/src/imagen-challengue/parte3.png)
 
 
 ## Construido con 🛠️
